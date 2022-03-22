@@ -1,4 +1,4 @@
-# 考勤插件 pc 前端
+# Umijs+react+typescript 前端
 
 ###技术栈：umi.js(react) + antd pro
 
